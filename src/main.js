@@ -23,6 +23,5 @@ document.querySelector('#app').innerHTML = `
   <footer id="footer"></footer>
 `
 
-setupCounter(document.querySelector('#counter'))
 loadHeader()
 loadFooter()
