@@ -1,0 +1,1 @@
+#  krds uiux vite실행 리소스
