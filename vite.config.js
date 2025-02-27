@@ -12,7 +12,9 @@ export default defineConfig({
 
         return html.replace('{{header}}', header).replace('{{footer}}', footer);
       }
-    }
+    },
+
+
   ],
 
   css: {
