@@ -15,9 +15,14 @@ export default defineConfig({
     }
   ],
 
+  css: {
+    devSourcemap: true, // 개발 소스맵 사용
+  },
+
   build: {
     emptyOutDir: false, 
     assetsDir: 'resources', // assets -> resources 변경
+    sourcemap: true, //배포 소스맵 사용
     rollupOptions: {
       input: Object.fromEntries(
         fs.readdirSync(__dirname)
