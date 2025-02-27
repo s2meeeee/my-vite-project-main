@@ -1,3 +1,7 @@
+
+/* krds:plugin css */
+@import "@/resources/krds/css/plugin/swiper-bundle.min.css";
+
 /* krds:css */
 @import "@/resources/krds/scss/common/common.css";
 @import "@/resources/krds/scss/component/output.css";
