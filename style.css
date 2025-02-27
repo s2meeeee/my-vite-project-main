@@ -1,7 +1,7 @@
 /* krds:css */
-@import "@/krds/scss/common/common.css";
-@import "@/krds/scss/component/output.css";
-@import "@/krds/scss/component/component.css";
+@import "@/resources/krds/scss/common/common.css";
+@import "@/resources/krds/scss/component/output.css";
+@import "@/resources/krds/scss/component/component.css";
 
 
 /* css 추가시 아래 추가 */
