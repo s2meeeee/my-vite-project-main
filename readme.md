@@ -2,7 +2,6 @@
 ## 📌 프로젝트 개요
 이 프로젝트는 Vite를 기반으로 한 웹 애플리케이션 프로젝트입니다. HTML, CSS, JavaScript를 활용하여 빠른 개발 및 번들링을 지원하며, 필요에 따라 플러그인을 추가하여 확장할 수 있습니다.
 
-
 ## 📂 프로젝트 구조
 ```
 📦 my-vite-project
@@ -100,6 +99,10 @@ dist/ 디렉터리에 빌드된 정적 파일이 생성됩니다.
 
 - public/ 디렉터리를 활용한 정적 리소스 관리
 
+
+## krds 태그 샘플
+/src/resources/krds/html/code/taglib.html
+/src/resources/krds/html/sample/
 
 ### 📄 제작자
 오청열
