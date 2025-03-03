@@ -488,13 +488,13 @@
   background-size: contain;
 }
 .adjust_display .view-mode-options .krds-form-check.view-mode-light::before {
-  background-image: url(../..//img/guide/contents/main/img_screen_light.png);
+  background-image: url(/src/resources/img/img_screen_light.png);
 }
 .adjust_display .view-mode-options .krds-form-check.view-mode-dark::before {
-  background-image: url(../..//img/guide/contents/main/img_screen_dark.png);
+  background-image: url(/src/resources/img/img_screen_dark.png);
 }
 .adjust_display .view-mode-options .krds-form-check.view-mode-default::before {
-  background-image: url(../..//img/guide/contents/main/img_screen_default.png);
+  background-image: url(/src/resources/img/img_screen_default.png);
 }
 @media (max-width: 1023px) {
   .adjust_display .adjust_scale {
