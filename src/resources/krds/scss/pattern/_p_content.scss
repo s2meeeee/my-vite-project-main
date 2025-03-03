@@ -296,7 +296,6 @@ $mode-setting: light;
                             position: relative;
                             margin-left: var(--krds-gap-3);
                             padding-left: var(--krds-gap-3);
-                          
                             &::before {
                                 @include position($t: 50%, $l: 0);
                                 @include pseudo();
@@ -572,7 +571,7 @@ $mode-setting: light;
                 background-position: center;
                 &.i1 {
                     background-color: #e5e2ef;
-                    background-image: url(#{$url}/img/pattern/content/main_ico_bag_S.svg);
+                    background-image: url(/src/resources/img/main/img_museum4.jpg);
                 } 
                 &.i2 { 
                     background-color: #cee4ee;
