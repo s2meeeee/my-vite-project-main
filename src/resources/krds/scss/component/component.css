@@ -5266,7 +5266,7 @@
 #krds-footer .f-logo {
   width: 13.7rem;
   height: var(--krds-size-height-7);
-  background-image: url(../..//img/component/icon/ico_logo_krds.svg);
+  background-image: url(/src/resources/img/footer_logo.png);
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
