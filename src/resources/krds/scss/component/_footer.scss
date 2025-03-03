@@ -85,7 +85,7 @@ $mode-setting: light;
 
 	.f-logo {		
 		@include square(13.7rem, var(--krds-size-height-7));
-		background-image: url(#{$url}/img/component/icon/ico_logo_krds.svg);
+		background-image: url(/src/resources/img/footer_logo.png);
 		background-position: center;
 		background-size: contain;
 		background-repeat: no-repeat;
