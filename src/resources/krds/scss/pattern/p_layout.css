@@ -1541,11 +1541,47 @@
 }
 .main-sect .contents-wrap .d-card .im.i2 {
   background-color: #cee4ee;
-  background-image: url(../..//img/pattern/content/main_ico_bankbook.svg);
+  background-image: url(/src/resources/img/main/img_museum1.jpg);
 }
 .main-sect .contents-wrap .d-card .im.i3 {
   background-color: #cee7e5;
-  background-image: url(../..//img/pattern/content/main_ico_store_S.svg);
+  background-image: url(/src/resources/img/main/img_museum2.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i4 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum3.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i5 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum5.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i6 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum6.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i7 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum7.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i8 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum8.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i9 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum9.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i10 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum10.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i11 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum11.jpg);
+}
+.main-sect .contents-wrap .d-card .im.i12 {
+  background-color: #cee7e5;
+  background-image: url(/src/resources/img/main/img_museum12.jpg);
 }
 .main-sect .policy-list {
   display: flex;
