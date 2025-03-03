@@ -490,17 +490,17 @@ $mode-setting: light;
             }
             &.view-mode-light {
                 &::before  {
-                    background-image: url(#{$url}/img/guide/contents/main/img_screen_light.png);
+                    background-image: url(/src/resources/img/img_screen_light.png);
                 }
             }
             &.view-mode-dark {
                 &::before  {
-                    background-image: url(#{$url}/img/guide/contents/main/img_screen_dark.png);
+                    background-image: url(/src/resources/img/img_screen_dark.png);
                 }
             }
             &.view-mode-default {
                 &::before  {
-                    background-image: url(#{$url}/img/guide/contents/main/img_screen_default.png);
+                    background-image: url(/src/resources/img/img_screen_default.png);
                 }
             }
         }
