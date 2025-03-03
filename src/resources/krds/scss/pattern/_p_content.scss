@@ -575,12 +575,52 @@ $mode-setting: light;
                 } 
                 &.i2 { 
                     background-color: #cee4ee;
-                    background-image: url(#{$url}/img/pattern/content/main_ico_bankbook.svg);
+                    background-image: url(/src/resources/img/main/img_museum1.jpg);
                 }
                 &.i3 {
                     background-color: #cee7e5;
-                    background-image: url(#{$url}/img/pattern/content/main_ico_store_S.svg);
+                    background-image: url(/src/resources/img/main/img_museum2.jpg);
                 }
+                &.i4 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum3.jpg);
+                }
+                &.i5 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum5.jpg);
+                }
+                &.i6 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum6.jpg);
+                }
+                &.i7 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum7.jpg);
+                }
+                &.i8 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum8.jpg);
+                }
+                &.i9 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum9.jpg);
+                }
+                &.i10 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum10.jpg);
+                }
+                &.i11 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum11.jpg);
+                }
+                &.i12 {
+                    background-color: #cee7e5;
+                    background-image: url(/src/resources/img/main/img_museum12.jpg);
+                }
+                
+
+                
+
             }
         }
     }
