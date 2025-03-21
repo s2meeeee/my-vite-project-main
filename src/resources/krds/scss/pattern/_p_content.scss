@@ -4424,7 +4424,7 @@ a {
         }
       }
       &.active {
-        padding-inline: var(--krds-padding-3);
+        // padding-inline: var(--krds-padding-3);
       }
       .krds-form-chip input[type="radio"]:checked ~ label {
         padding-inline: var(--krds-padding-4);
